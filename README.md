@@ -35,10 +35,4 @@
 ![c++](https://img.shields.io/badge/-c++-05122A?style=flat&logo={c++})&nbsp;
 
 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliNassef&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=aliNassef&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=aliNassef&style=for-the-badge">
-</a>
+ 
