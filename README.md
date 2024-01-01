@@ -23,13 +23,13 @@
 <a href="https://www.linkedin.com/in/ali-nassef/" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Nassef-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![dart](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=dart)&nbsp;
-![c++](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=c++)&nbsp;
-![flutter](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=flutter&logoColor=1572B6)&nbsp;
+![dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart)&nbsp;
+![c++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c++)&nbsp;
+![flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![python](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=python)&nbsp;
+![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
 
 
 
