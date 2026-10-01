@@ -1,38 +1,65 @@
+[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/AhmedOmran22)
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+---
+<h1 align="center">Hey there 👋, I'm ALI NASSEF</h1>
 
-<h3 align="center">
-  Welcome to Ali Nassef's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <strong>Flutter Mobile Developer & Node JS</strong> · 1+ Years of Experience · Building Apps That Scal
+</p>
 
-- 🏢 I'm a Software Engineer 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with c++, dart , flutter, any thing about mobile dev. and competitive programming  .
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+<p align="center">
+  <a href="mailto:anassef798@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/201552630695"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+I'm a Flutter developer focused on building **scalable, maintainable mobile apps** with clean architecture and solid engineering practices. I care deeply about code quality, smooth user experiences, and shipping production-ready applications to both **Google Play** and the **App Store**.
+
+- 🏗️ Clean Architecture & SOLID principles advocate
+- ⚡ Performance-first mindset
+- 🚀 Published apps on **Google Play Store** & **Apple App Store**
+- 📚 Always leveling up with advanced Flutter patterns
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| Category | Technologies |
+|---|---|
+| **Core** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **State Management** | ![Bloc](https://img.shields.io/badge/Bloc%20/%20Cubit-01579B?style=flat-square&logo=data:image/png;base64,&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=flat-square&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-FF7043?style=flat-square&logoColor=white) |
+| **Backend & Services** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-4A154B?style=flat-square&logoColor=white) |
+| **Storage** | ![Hive](https://img.shields.io/badge/Hive-FFAB00?style=flat-square&logoColor=black) ![SharedPreferences](https://img.shields.io/badge/SharedPreferences-607D8B?style=flat-square&logoColor=white) |
+| **Publishing** | ![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white) ![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+</div>
+
+---
+
+### 🧠 What I Do Best
+
+```
+📐  Clean Architecture       →  Feature-based structure with data / domain / presentation layers
+🧱  SOLID Principles         →  Modular, testable, and maintainable codebases
+🔗  API Integration          →  REST, WebSocket, Firebase — full backend connectivity
+📦  App Publishing           →  End-to-end delivery to Google Play & App Store
+🎨  UI / UX                  →  Responsive, adaptive, and pixel-perfect interfaces
+⚡  Performance              →  Optimized builds, smooth 60fps animations
+🔔  Push Notifications       →  FCM integration for real-time user engagement
+🗺️  Google Maps              →  Location services and map-based features
+```
 
 
+---
 
-### Connect with Me :
+<div align="center">
 
-<a href="https://www.linkedin.com/in/ali-nassef/" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Nassef-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
-### 🛠 &nbsp;Tech Stack
-![dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart)&nbsp;
-
-![flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
-![Hive](https://img.shields.io/badge/-Hive-05122A?style=flat&logo=hive)&nbsp;
-![java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
-![c++](https://img.shields.io/badge/-c++-05122A?style=flat&logo={c++})&nbsp;
-
-
- 
+</div>
